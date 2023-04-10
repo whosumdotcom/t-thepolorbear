@@ -1,0 +1,23 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-10T14:25:10Z",
+  "IdClaims": [
+    {
+      "Claim": "t:thepolorbear"
+    },
+    {
+      "Claim": "spout:thattay"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "8d8c2aba3eb642fa3bb84be4",
+    "Timestamp": "2023-04-10T14:27:39Z",
+    "Signature": "8f8b0965c42f9e7d82ee405ec7047127ba4497ac03062daa5e7ee2227be5e1cb990b9bf79eab8d250b18874fc2d2993d30c330484db95a2eccb51f7f7df48817b8280b44e3f4ccc092c65e16bab4cb5358917d25fc8ade78ac1da49e43f831687e1d8b374802abc8333f138d2baf11b34bec1395f87a2c13fed97ad40078038f562fbf322c39957a145f2e1329356b8c1f1436399f250e9e04369c9b97b61f63c9ff1450ad182482b1b1c3051ea1cb12673aeafe09a3f655c13ebaabd4715e76074cd55af46840b3fa3f9659cb3169a44de7712a75d5da771976f8e2677774ac570a9bff13043e0bf9e7c3f54dd3793ad15453a2b5a49c8044b1ec92969cf18e"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "3f1af8266bb9972fa5eba75592f3641e09806e2d68445be743ac85116c5ac8ba",
+  "ContentToHash": "v1|spout:thattay,t:thepolorbear|2023-04-10T14:25:10Z"
+}
